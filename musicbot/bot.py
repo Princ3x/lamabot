@@ -1,7 +1,7 @@
 import os
 import sys
 import time
-import shlexa
+import shlex
 import shutil
 import inspect
 import aiohttp
